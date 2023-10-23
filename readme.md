@@ -3,7 +3,7 @@
 <h1>Twitter-Clone</h1>
 
 - Twitter Tweet ekleme alanı tasarımı yapıldı*
-- İnput Focus oldupunda (yani üstüne basıldığında ) rengi değişildi
+- İnput Focus olduğunda (yani üstüne basıldığında ) rengi değişildi
 - İnputta klavye girişi olduğunda  placeholdera yazıldı
 - alt kısmında bir sayac açıldı
 - kalan karakter limitini tutuldu
